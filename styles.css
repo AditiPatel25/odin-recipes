@@ -7,20 +7,32 @@ h1 {
 }
 
 .mint {
-    background-color: rgb(203, 210, 190);
+    background-color: rgb(178, 185, 166);
 }
 
 .golden {
-    background-color: rgb(197, 163, 12);
+    background-color: rgba(197, 163, 12, 85%);
 }
 
 .red {
-    background-color: rgb(214, 87, 18);
+    background-color: rgba(214, 87, 18, 85%);
 }
 
 .main-page {
     font-size: 20px;
+    text-align: center;
+    padding: 50px;
+    margin: 20px 250px;
+    border-radius: 75px;
+}
 
+.white {
+    color: white;
+}
+
+
+div {
+    padding: 10px;
 }
 
 
